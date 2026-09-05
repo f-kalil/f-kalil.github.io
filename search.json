@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "f-kalil.github.io",
+    "objectID": "posts/test_project 2/index.html",
+    "href": "posts/test_project 2/index.html",
+    "title": "Test 2",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Test 2"
+  },
+  {
+    "objectID": "posts/Grad-Shafranov_Solver/index.html",
+    "href": "posts/Grad-Shafranov_Solver/index.html",
+    "title": "Grad-Shafranov Solver",
+    "section": "",
+    "text": "Introduction"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "You can view my CV below, or download a copy. For any questioons, please reach out via  LinkedIn or email.\nDownload CV"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,26 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "articles.html",
+    "href": "articles.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Articles and interactive simulations related to plasma physics.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrad-Shafranov Solver\n\n\n\nMHD\n\nsimulation\n\nnumerical methods\n\n\n\n\n\n\n\n\n\nAug 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nTest 1\n\n\n\ntest\n\n1\n\n\n\n\n\n\n\n\n\nAug 5, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nTest 2\n\n\n\ntest\n\n2\n\n\n\n\n\n\n\n\n\nAug 5, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Felipe Khoury Kalil",
+    "section": "",
+    "text": "I am a MSc. student in Plasma Physics and I am working on developing the new magnetic diagnostics system for the TCABR upgrade at the Plasma Physics Laboratory of University of São Paulo (USP).\nThis website has some cool articles with interactive simulations I have created (and still am creating) in my free time (always under construction!). You can also view and download my CV. And you can reach out to me via  LinkedIn."
+  },
+  {
+    "objectID": "posts/test_project 1/index.html",
+    "href": "posts/test_project 1/index.html",
+    "title": "Test 1",
+    "section": "",
+    "text": "Test 1"
   }
 ]
